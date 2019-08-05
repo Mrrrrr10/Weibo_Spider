@@ -17,16 +17,21 @@ scrapy crawl weibo_sleep
 
 ## 数据分析、可视化：
 1. 微博用户对于《无双》的情感分析
+
 ![Result1](https://github.com/Mrrrrr10/Weibo_Spider/blob/master/Data_Analysis/weibo/%E7%94%A8%E6%88%B7%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90.png)
 
 2. 微博含有“晚安”的微博用户年龄分布
+
 ![Result1](https://github.com/Mrrrrr10/Weibo_Spider/blob/master/Data_Analysis/weibo_sleep/age.png)
 
 3. 性别
+
 ![Result1](https://github.com/Mrrrrr10/Weibo_Spider/blob/master/Data_Analysis/weibo_sleep/gender.png)
 
 4. 用户地理位置
+
 ![Result1](https://github.com/Mrrrrr10/Weibo_Spider/blob/master/Data_Analysis/weibo_sleep/location.png)
 
 5. 睡觉时间点
+
 ![Result1](https://github.com/Mrrrrr10/Weibo_Spider/blob/master/Data_Analysis/weibo_sleep/time.png)
